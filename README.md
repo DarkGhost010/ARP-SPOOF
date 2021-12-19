@@ -4,3 +4,8 @@ ARP spoofing is a type of attack in which a malicious actor sends falsified ARP 
 
 
 Arp-spoofing, this script was written for people who want to spoof any vulnerable machine such as Wİndows, of course it could have been sophisticatedly created but this repos will be updated constantly 
+
+
+usuage is easy 
+
+"python3 arp_spoof" command
